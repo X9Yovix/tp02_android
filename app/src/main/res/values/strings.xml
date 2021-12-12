@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TP02</string>
+    <string name="calendar">Cld</string>
+    <string name="btn_ok">Ok</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="logo_pic">Logo</string>
+    <string name="input">Input</string>
+    <string name="btn1">BTN 1</string>
+    <string name="btn2">BTN 2</string>
+    <string name="btn3">BTN 3</string>
+    <string name="btn4">BTN 4</string>
+    <string name="btn5">BTN 5</string>
+    <string name="n_poids">Poids: </string>
+    <string name="n_taille">Taille: </string>
+    <string name="poids">Poids en Kg </string>
+    <string name="taille">Taille </string>
+    <string name="metre">Mètre</string>
+    <string name="calcul_imc">Calculer l\'IMC</string>
+    <string name="raz">RAZ</string>
+    <string name="centimètre">Centimètre</string>
+    <string name="text_res">Résultat: </string>
+    <string name="message_calcul">Vous devez cliquer sur le bouton «CALCULER l\'IMC» pour obtenir une résultat</string>
+    <string name="rouge">Rouge</string>
+    <string name="jaune">Jaune</string>
+    <string name="vert">Vert</string>
+    <string name="edit_color">Modifier la couleur de fond</string>
+    <string name="default_color">Default</string>
+</resources>
